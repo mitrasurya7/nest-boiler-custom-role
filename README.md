@@ -14,6 +14,7 @@ This boilerplate is built with a focus on **Product Thinking**, providing scalab
 
 - **NestJS**: A progressive Node.js framework for building efficient, reliable, and scalable server-side applications.
 - **TypeORM**: An ORM (Object-Relational Mapper) for working with databases seamlessly.
+- **Postgresql**: A Database relations for scalable database
 
 ---
 
